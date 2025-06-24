@@ -1,3 +1,5 @@
+# Archived Repository - may be useful for testing and workflow development, but should not be used in a production environment, developed for early testing only
+
 ## ADES Workspace Data Access Demonstrator
 
 This repository contains two examples demonstrating workspace data accessibility within workflows executed via the ADES (Zoo Project). These examples build Docker images that can be executed as steps in CWL scripts.
